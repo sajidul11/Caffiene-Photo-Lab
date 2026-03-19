@@ -3,3 +3,4 @@ pillow
 requests==2.32.4
 python-dotenv
 cloudinary==1.44.1
+gunicorn
