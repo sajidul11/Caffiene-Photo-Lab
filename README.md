@@ -1,4 +1,4 @@
-# 📸 Passport Photo Pro
+# ☕ Caffiene Photo Lab
 
 A web-based tool to generate print-ready passport photo sheets from uploaded images. Supports multiple photos, per-photo copy counts, AI background removal, image enhancement, and multi-page PDF export — all on an A4 layout at 300 DPI.
 
