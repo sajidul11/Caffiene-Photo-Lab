@@ -36,6 +36,7 @@ def process_single_image(input_image_bytes):
         headers={"X-Api-Key": REMOVE_BG_API_KEY},
     )
 
+    
     if response.status_code != 200:
         try:
             error_info = response.json()
